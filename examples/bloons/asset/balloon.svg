@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="balloon.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="276.23274"
+     inkscape:cy="728.48284"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="848"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Repos\ruby\gubby\gubby_gosu\test\asset\bloon.png"
+       sodipodi:nodetypes="csscccccccssc"
+       id="path3596"
+       d="m 203.94643,265.89286 c -17.51845,0 -31.71875,14.80439 -31.71875,33.0625 0,15.41414 11.5467,26.40657 23.8125,32.03125 1.47217,0.67509 4.3529,1.42286 6.03125,1.50446 l -3.40179,4.55358 2.39969,-1.69253 1.68249,1.50552 1.69908,-1.29067 2.80803,1.86607 -3.54911,-4.91072 c 1.52426,-0.0658 6.40917,-0.8103 7.73661,-1.44196 9.25605,-4.40439 24.21875,-16.5596 24.21875,-32.125 0,-18.25811 -14.20031,-33.0625 -31.71875,-33.0625 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56008482;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56008482;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 285.73215,315.53572 c -16.80417,-7.14286 -30.11161,-8.94561 -30.11161,9.3125 0,15.41414 11.5467,-4.30772 23.8125,1.31696 1.47217,0.67509 4.3529,1.42286 6.03125,1.50446 l -3.40179,4.55358 2.39969,-1.69253 1.68249,1.50552 1.69908,-1.29067 2.80803,1.86607 -3.54911,-4.91072 c 1.52426,-0.0658 6.40917,-0.8103 7.73661,-1.44196 9.25605,-4.40439 25.46875,8.97611 25.46875,-6.58929 0,-18.25811 -17.05745,-4.13392 -34.57589,-4.13392 z"
+       id="path2816"
+       sodipodi:nodetypes="csscccccccssc"
+       inkscape:export-filename="D:\Repos\ruby\gubby\gubby_gosu\test\asset\popped.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
