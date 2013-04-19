@@ -7,9 +7,6 @@ include Gubby
 include Gubby::Systems
 include Gubby::Components
 
-include Gubby::Gosu::Systems
-include Gubby::Gosu::Components
-
 #Cheap out for moving and stuff.
 #Probably not the best example. Should be a move system or something.
 class UpdateSystem < GameSystem

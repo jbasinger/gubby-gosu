@@ -5,11 +5,11 @@ require 'gubby/gosu/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "gubby-gosu"
-  spec.version       = Gubby::Gosu::VERSION
+  spec.version       = "0.0.1"
   spec.authors       = ["Justin Basinger"]
   spec.email         = ["justin.m.basinger@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "Gosu specific additions to Gubby. For games!"
+  spec.summary       = "Gosu specific additions to Gubby."
   spec.homepage      = ""
   spec.license       = "MIT"
 
@@ -20,4 +20,8 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
+	spec.add_development_dependency "gosu"
+	spec.add_development_dependency "gubby"
+	spec.add_development_dependency "ruby-prof"
+	
 end

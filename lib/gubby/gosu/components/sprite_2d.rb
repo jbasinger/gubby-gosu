@@ -1,15 +1,14 @@
+
 module Gubby
-  module Gosu
-		module Components
-			module Sprite2D
+  module Components
+		module Sprite2D
+			
+			attr_accessor :image
+			
+			def load(window, filename, tileable)
 				
-				attr_accessor :image
+				@image = Gosu::Image.new(window, filename, tileable)
 				
-				def load(window, filename, tileable)
-					
-					@image = Gosu::Image.new(window, filename, tileable)
-					
-				end
 			end
 		end
 	end
