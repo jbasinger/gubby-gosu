@@ -1,90 +1,91 @@
-Thread ID: 17455560
-Fiber ID: 20703240
-Total: 13.850000
+Thread ID: 15489480
+Fiber ID: 21976728
+Total: 100.086000
 Sort by: self_time
 
  %self      total      self      wait     child     calls  name
- 67.50     13.572     9.349     0.000     4.223        1   Gosu::Window#show_internal 
- 15.98      2.213     2.213     0.000     0.000      308   Gosu::Image#initialize 
-  6.15      0.852     0.852     0.000     0.000        1   Gosu::Window#close 
-  5.59      0.774     0.774     0.000     0.000      840   Gosu::Sample#initialize_ 
-  2.01      0.278     0.278     0.000     0.000        1   Gosu::Window#initialize 
-  0.43      0.080     0.059     0.000     0.021    25278   Bloon#move 
-  0.33      0.046     0.046     0.000     0.000    25406   Gosu::Image#draw_rot 
-  0.12      0.017     0.017     0.000     0.000    63347   BasicObject#== 
-  0.12      0.016     0.016     0.000     0.000    52572   Kernel#is_a? 
-  0.11      0.028     0.015     0.000     0.013     1560   Array#include? 
-  0.07      0.014     0.010     0.000     0.004      173   Array#reject 
-  0.07      0.017     0.010     0.000     0.007     1485   Array#select 
-  0.06      0.800     0.009     0.000     0.791      168   Range#each 
-  0.06      0.009     0.009     0.000     0.000    27091   Gosu::Window#height 
-  0.05      0.007     0.007     0.000     0.000      140   Gosu::Sample#play 
-  0.04      2.969     0.006     0.000     2.963      168   Bloon#initialize 
-  0.04      0.006     0.006     0.000     0.000      840   <Class::Gosu::Sample>#allocate 
-  0.04      0.781     0.005     0.000     0.776      840   Gosu::Sample#initialize 
-  0.04      0.005     0.005     0.000     0.000    25614   Gosu::Image#width 
-  0.04      0.357     0.005     0.000     0.352     3939  *Array#each 
-  0.04      0.007     0.005     0.000     0.002     4455   Kernel#respond_to? 
-  0.03      0.004     0.004     0.000     0.000     5516   Gosu::Image#height 
-  0.03      0.347     0.004     0.000     0.343     1485   Gubby::GameEngine#run 
-  0.02      0.036     0.003     0.000     0.033      168   Gubby::GameEngine#add_entity 
-  0.02      0.003     0.003     0.000     0.000      168   <Class::Gosu::Color>#allocate 
-  0.02      0.009     0.003     0.000     0.006      168   Gubby::GameEntity#add_component 
-  0.01      0.002     0.002     0.000     0.000     1683   Array#push 
-  0.01      0.011     0.002     0.000     0.009      168   Gubby::GameEntity#initialize 
-  0.01      0.108     0.002     0.000     0.106      656   MyWindow#draw 
-  0.01      0.002     0.002     0.000     0.000     2970   Kernel#respond_to_missing? 
-  0.01      0.099     0.002     0.000     0.097      173   MyWindow#button_down 
-  0.01      0.023     0.002     0.000     0.021      504   Gubby::Systems::GameSystem#refresh_entity 
-  0.01      3.318     0.002     0.000     3.316     1489  *Class#new 
-  0.01      0.002     0.002     0.000     0.000      308   <Class::Gosu::Image>#allocate 
-  0.01      4.005     0.002     0.000     4.003      656   MyWindow#update 
-  0.01      0.006     0.002     0.000     0.004      512   Array#delete 
-  0.01      0.002     0.002     0.000     0.000     1485   Symbol#to_s 
-  0.01      0.001     0.001     0.000     0.000      476   <Class::Range>#allocate 
-  0.01      0.001     0.001     0.000     0.000      656   Array#count 
-  0.01      2.217     0.001     0.000     2.216      308   Gubby::Components::Sprite2D#load 
-  0.01      0.110     0.001     0.000     0.109     1312  *Gosu::Window#protected_draw_2 
-  0.01      0.008     0.001     0.000     0.007      128   Gubby::GameEntity#destroy 
-  0.01      0.001     0.001     0.000     0.000     1008   Module#extend_object 
-  0.01      0.001     0.001     0.000     0.000      168   <Module::Poppable>#extend_object 
-  0.01      0.095     0.001     0.000     0.094      656   Gubby::Systems::GosuRenderSystem#draw 
-  0.01      0.004     0.001     0.000     0.003     1008   Kernel#extend 
-  0.01      0.001     0.001     0.000     0.000      168   <Module::Update>#extend_object 
-  0.01      0.001     0.001     0.000     0.000     1148   Fixnum#- 
-  0.00     13.572     0.000     0.000    13.572     2317  *Gosu::Window#show 
-  0.00      0.000     0.000     0.000     0.000      168   Gosu::Color#red= 
-  0.00      0.000     0.000     0.000     0.000      168   <Module::Gubby::Components::Position2D>#extend_object 
-  0.00      0.000     0.000     0.000     0.000      168   <Class::Proc>#new 
-  0.00      0.000     0.000     0.000     0.000      308   Kernel#nil? 
-  0.00      0.097     0.000     0.000     0.097      173   PopSystem#button_down 
-  0.00      0.000     0.000     0.000     0.000      313   Array#sample 
-  0.00      0.000     0.000     0.000     0.000      308   String#to_str 
-  0.00      0.130     0.000     0.000     0.130      656   UpdateSystem#update 
-  0.00      0.000     0.000     0.000     0.000      168   Gosu::Window#width 
-  0.00      0.000     0.000     0.000     0.000      659   Gosu::Window#needs_cursor? 
-  0.00      0.000     0.000     0.000     0.000      168   BasicObject#initialize 
-  0.00      0.000     0.000     0.000     0.000      168   Gosu::Color#initialize 
-  0.00      0.000     0.000     0.000     0.000     1008   Module#extended 
-  0.00      0.000     0.000     0.000     0.000      840   Array#first 
-  0.00      0.000     0.000     0.000     0.000      172   Gosu::Window#button_up 
-  0.00      0.000     0.000     0.000     0.000      168   Gosu::Color#green= 
-  0.00      0.000     0.000     0.000     0.000      168   Gosu::Color#blue= 
-  0.00      0.000     0.000     0.000     0.000      656   Gosu::Window#needs_redraw? 
-  0.00      0.001     0.000     0.000     0.001     1148   Kernel#rand 
-  0.00      0.000     0.000     0.000     0.000      201   NilClass#nil? 
-  0.00      0.000     0.000     0.000     0.000      840   Fixnum#to_s 
-  0.00      0.007     0.000     0.000     0.007      128   Gubby::GameEngine#remove_entity 
+ 85.82     99.842    85.897     0.000    13.945        1   Gosu::Window#show_internal 
+  9.29      9.294     9.294     0.000     0.000      633   Gosu::Image#initialize 
+  1.40      1.398     1.398     0.000     0.000     3160   Gosu::Sample#initialize_ 
+  0.55      0.549     0.549     0.000     0.000   235671   Gosu::Image#draw_rot 
+  0.43      0.650     0.435     0.000     0.215   235079   Bloon#move 
+  0.42      0.421     0.421     0.000     0.000        1   Gosu::Window#close 
+  0.24      0.244     0.244     0.000     0.000        1   Gosu::Window#initialize 
+  0.11      0.115     0.115     0.000     0.000   477742   Kernel#is_a? 
+  0.10      0.096     0.096     0.000     0.000   236343   Gosu::Image#width 
+  0.08      0.129     0.078     0.000     0.051     6200   Array#include? 
+  0.07      0.067     0.067     0.000     0.000   235117   Gosu::Window#height 
+  0.07      0.067     0.067     0.000     0.000   281756   BasicObject#== 
+  0.04      2.337     0.044     0.000     2.293    27407  *Array#each 
+  0.04      0.050     0.040     0.000     0.010    39273   Kernel#respond_to? 
+  0.04      0.083     0.037     0.000     0.046    11827   Array#select 
+  0.03      0.043     0.027     0.000     0.016     2368   Array#delete 
+  0.02     12.777     0.025     0.000    12.752     5913   MyWindow#update 
+  0.02      2.289     0.024     0.000     2.265    11827   Gubby::GameEngine#run 
+  0.02      1.478     0.021     0.000     1.457      632   Range#each 
+  0.02      0.020     0.020     0.000     0.000    11827   Symbol#to_s 
+  0.02     10.891     0.020     0.000    10.871      632   Bloon#initialize 
+  0.02      1.424     0.019     0.000     1.405     3160   Gosu::Sample#initialize 
+  0.02      0.017     0.017     0.000     0.000     3160   <Class::Gosu::Sample>#allocate 
+  0.02      0.016     0.016     0.000     0.000     3160   <Class::Gosu::Color>#allocate 
+  0.01      0.015     0.015     0.000     0.000     5939   Gosu::Window#needs_cursor? 
+  0.01      1.051     0.013     0.000     1.038    11826  *Gosu::Window#protected_draw_2 
+  0.01      1.021     0.011     0.000     1.010     5913   MyWindow#draw 
+  0.01      0.026     0.010     0.000     0.016     2528   Gubby::Components::Color#component_added 
+  0.01      0.010     0.010     0.000     0.000    24918   Kernel#respond_to_missing? 
+  0.01      0.011     0.009     0.000     0.002     3793   Kernel#rand 
+  0.01      0.008     0.008     0.000     0.000     3160   Gosu::Color#initialize 
+  0.01      0.008     0.008     0.000     0.000     3792   Module#extend_object 
+  0.01      0.943     0.008     0.000     0.935     5913   Gubby::Systems::GosuRenderSystem#draw 
+  0.01      1.191     0.008     0.000     1.183     5913   UpdateSystem#update 
+  0.01      0.151     0.007     0.000     0.144      632   Gubby::GameEngine#add_entity 
+  0.01      9.304     0.006     0.000     9.298      633   Gubby::Components::Sprite2D#load 
+  0.01      0.006     0.006     0.000     0.000     3160   Fixnum#to_s 
+  0.01      0.006     0.006     0.000     0.000     5913   Gosu::Window#button_down? 
+  0.00      0.022     0.005     0.000     0.017     3792   Kernel#extend 
+  0.00      0.084     0.005     0.000     0.079     1896   Gubby::Systems::GameSystem#refresh_entity 
+  0.00      0.004     0.004     0.000     0.000     5913   Gosu::Window#needs_redraw? 
+  0.00      0.003     0.003     0.000     0.000     3792   Module#extended 
+  0.00      0.003     0.003     0.000     0.000     3160   Array#shift 
+  0.00      0.003     0.003     0.000     0.000     6323   Array#push 
+  0.00      0.005     0.003     0.000     0.002      632   <Module::Gubby::Components::Position2D>#extend_object 
+  0.00      0.003     0.003     0.000     0.000     3160   Array#first 
+  0.00      0.003     0.003     0.000     0.000      632   <Class::Proc>#new 
+  0.00      0.003     0.003     0.000     0.000      632   Gosu::Color#red= 
+  0.00      0.002     0.002     0.000     0.000     5913   Array#count 
+  0.00      0.002     0.002     0.000     0.000     3793   Fixnum#- 
+  0.00     11.139     0.002     0.000    11.137     7590  *Class#new 
+  0.00      0.053     0.002     0.000     0.051      592   Gubby::GameEngine#remove_entity 
+  0.00      0.001     0.001     0.000     0.000      633   Kernel#nil? 
+  0.00      0.001     0.001     0.000     0.000      636   <Class::BasicObject>#allocate 
+  0.00      0.062     0.001     0.000     0.061      632   Gubby::GameEntity#add_component 
+  0.00      0.054     0.001     0.000     0.053      592   Gubby::GameEntity#destroy 
+  0.00      0.001     0.001     0.000     0.000      633   <Class::Gosu::Image>#allocate 
+  0.00    100.086     0.000     0.000   100.086        1   Global#[No method] 
+  0.00     99.842     0.000     0.000    99.842    17767  *Gosu::Window#show 
+  0.00      0.000     0.000     0.000     0.000        1   Array#reject 
+  0.00      0.063     0.000     0.000     0.063      632   Gubby::GameEntity#initialize 
+  0.00      0.000     0.000     0.000     0.000      632   Gosu::Color#green= 
+  0.00      0.000     0.000     0.000     0.000      632   Gosu::Color#blue= 
+  0.00      0.003     0.000     0.000     0.003      632   <Module::Update>#extend_object 
+  0.00      0.000     0.000     0.000     0.000     1265   <Class::Range>#allocate 
+  0.00      0.000     0.000     0.000     0.000      632   NilClass#nil? 
+  0.00      0.001     0.000     0.000     0.001        1   MyWindow#button_down 
+  0.00      0.001     0.000     0.000     0.001        1   PopSystem#button_down 
+  0.00      0.000     0.000     0.000     0.000      632   Gosu::Window#width 
+  0.00      0.000     0.000     0.000     0.000     1342   Gosu::Image#height 
+  0.00      0.000     0.000     0.000     0.000        2   Array#sample 
   0.00      0.000     0.000     0.000     0.000        1   Gubby::GameEngine#initialize 
   0.00      0.000     0.000     0.000     0.000        1   PopSystem#initialize 
   0.00      0.000     0.000     0.000     0.000        1   UpdateSystem#initialize 
   0.00      0.000     0.000     0.000     0.000        3   Gubby::Systems::GameSystem#initialize 
   0.00      0.000     0.000     0.000     0.000        1   Gubby::Systems::GosuRenderSystem#initialize 
-  0.00      0.000     0.000     0.000     0.000      172   <Class::BasicObject>#allocate 
+  0.00      0.001     0.000     0.000     0.001      632   <Module::Poppable>#extend_object 
   0.00      0.000     0.000     0.000     0.000        1   Gosu::Window#caption= 
-  0.00      0.000     0.000     0.000     0.000      656   Gosu::Window#button_down? 
-  0.00      0.278     0.000     0.000     0.278        1   MyWindow#initialize 
+  0.00      0.000     0.000     0.000     0.000        1   Gosu::Sample#play 
+  0.00      0.244     0.000     0.000     0.244        1   MyWindow#initialize 
   0.00      0.000     0.000     0.000     0.000        1   <Class::Gosu::Window>#allocate 
-  0.00      0.000     0.000     0.000     0.000      840   Array#shift 
+  0.00      0.000     0.000     0.000     0.000      632   BasicObject#initialize 
+  0.00      0.000     0.000     0.000     0.000      633   String#to_str 
 
 * indicates recursively called methods

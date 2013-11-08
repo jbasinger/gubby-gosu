@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3819"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="robots.svg">
+  <defs
+     id="defs3821">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3827" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="128.62291"
+     inkscape:cy="676.66037"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="848"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3824">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       ry="17.134157"
+       y="-593.84833"
+       x="-869.34033"
+       height="282.85715"
+       width="291.42856"
+       id="rect4407"
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.11166251;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3829"
+       width="64.794044"
+       height="62.888336"
+       x="62.096451"
+       y="270.5217"
+       ry="3.80948"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_body.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="17.134157"
+       y="-159.56255"
+       x="-817.9118"
+       height="88.571426"
+       width="445.71429"
+       id="rect4409"
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.11166251;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3833"
+       width="99.096771"
+       height="19.692307"
+       x="76.395454"
+       y="382.02405"
+       ry="3.80948"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_gun.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="translate(-583.62605,-634.7819)"
+       d="m -71.428566,518.07648 a 87.14286,82.85714 0 1 1 -174.285724,0 87.14286,82.85714 0 1 1 174.285724,0 z"
+       sodipodi:ry="82.85714"
+       sodipodi:rx="87.14286"
+       sodipodi:cy="518.07648"
+       sodipodi:cx="-158.57143"
+       id="path4411"
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3831"
+       sodipodi:cx="-158.57143"
+       sodipodi:cy="518.07648"
+       sodipodi:rx="87.14286"
+       sodipodi:ry="82.85714"
+       d="m -71.428566,518.07648 a 87.14286,82.85714 0 1 1 -174.285724,0 87.14286,82.85714 0 1 1 174.285724,0 z"
+       transform="matrix(0.2223325,0,0,0.2223325,128.48479,276.36732)"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_gun.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4403"
+       sodipodi:cx="-841.42859"
+       sodipodi:cy="498.07648"
+       sodipodi:rx="15.714286"
+       sodipodi:ry="14.285714"
+       d="m -825.7143,498.07648 a 15.714286,14.285714 0 1 1 -31.42857,0 15.714286,14.285714 0 1 1 31.42857,0 z"
+       transform="matrix(0.52941177,0,0,0.52941177,-118.82353,54.388926)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4413"
+       sodipodi:cx="-841.42859"
+       sodipodi:cy="498.07648"
+       sodipodi:rx="15.714286"
+       sodipodi:ry="14.285714"
+       d="m -825.7143,498.07648 a 15.714286,14.285714 0 1 1 -31.42857,0 15.714286,14.285714 0 1 1 31.42857,0 z"
+       transform="matrix(0.52941177,0,0,0.52941177,-396.73529,-598.9644)" />
+    <path
+       transform="matrix(0.11770544,0,0,0.11770544,167.17191,269.38422)"
+       d="m -825.7143,498.07648 a 15.714286,14.285714 0 1 1 -31.42857,0 15.714286,14.285714 0 1 1 31.42857,0 z"
+       sodipodi:ry="14.285714"
+       sodipodi:rx="15.714286"
+       sodipodi:cy="498.07648"
+       sodipodi:cx="-841.42859"
+       id="path4401"
+       style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_body.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.52941177,0,0,0.52941177,-95.966386,54.388926)"
+       d="m -825.7143,498.07648 a 15.714286,14.285714 0 1 1 -31.42857,0 15.714286,14.285714 0 1 1 31.42857,0 z"
+       sodipodi:ry="14.285714"
+       sodipodi:rx="15.714286"
+       sodipodi:cy="498.07648"
+       sodipodi:cx="-841.42859"
+       id="path4405"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0.52941177,0,0,0.52941177,-373.87815,-598.9644)"
+       d="m -825.7143,498.07648 a 15.714286,14.285714 0 1 1 -31.42857,0 15.714286,14.285714 0 1 1 31.42857,0 z"
+       sodipodi:ry="14.285714"
+       sodipodi:rx="15.714286"
+       sodipodi:cy="498.07648"
+       sodipodi:cx="-841.42859"
+       id="path4415"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4353"
+       sodipodi:cx="-841.42859"
+       sodipodi:cy="498.07648"
+       sodipodi:rx="15.714286"
+       sodipodi:ry="14.285714"
+       d="m -825.7143,498.07648 a 15.714286,14.285714 0 1 1 -31.42857,0 15.714286,14.285714 0 1 1 31.42857,0 z"
+       transform="matrix(0.11770544,0,0,0.11770544,172.2538,269.38422)"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_body.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="204.73523"
+       x="-668.82996"
+       height="28.502205"
+       width="6.2477469"
+       id="rect4379"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.76176023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       y="214.72668"
+       x="-522.41003"
+       height="27.090786"
+       width="15.008669"
+       id="rect4391"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.1731782;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       y="-575.40698"
+       x="-683.17889"
+       height="27.090786"
+       width="15.008669"
+       id="rect4417"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.1731782;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.92783314;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4367"
+       width="3.336915"
+       height="6.0231624"
+       x="103.48618"
+       y="274.6218"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_body.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.76176023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4419"
+       width="6.2477469"
+       height="28.502205"
+       x="-849.64728"
+       y="-576.11267" />
+    <rect
+       y="274.4649"
+       x="66.474861"
+       height="6.3369665"
+       width="1.3890772"
+       id="rect4357"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.61402905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_body.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="204.73523"
+       x="-653.2674"
+       height="28.502205"
+       width="6.2477469"
+       id="rect4381"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.76176023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       y="214.72668"
+       x="-502.02475"
+       height="27.090786"
+       width="15.008669"
+       id="rect4393"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.1731782;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       y="-575.40698"
+       x="-662.7937"
+       height="27.090786"
+       width="15.008669"
+       id="rect4421"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.1731782;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.92783314;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4369"
+       width="3.336915"
+       height="6.0231624"
+       x="108.01849"
+       y="274.6218"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_body.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.76176023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4423"
+       width="6.2477469"
+       height="28.502205"
+       x="-834.08472"
+       y="-576.11267" />
+    <rect
+       y="274.4649"
+       x="69.934921"
+       height="6.3369665"
+       width="1.3890772"
+       id="rect4359"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.61402905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_body.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="204.73523"
+       x="-637.70477"
+       height="28.502205"
+       width="6.2477469"
+       id="rect4383"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.76176023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       y="214.72668"
+       x="-481.6395"
+       height="27.090786"
+       width="15.008669"
+       id="rect4395"
+       style="fill:#800033;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.1731782;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       y="-575.40698"
+       x="-642.40845"
+       height="27.090786"
+       width="15.008669"
+       id="rect4425"
+       style="fill:#800033;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.1731782;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:#800033;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.92783314;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4371"
+       width="3.336915"
+       height="6.0231624"
+       x="112.55079"
+       y="274.6218"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_body.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.76176023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4427"
+       width="6.2477469"
+       height="28.502205"
+       x="-818.52209"
+       y="-576.11267" />
+    <rect
+       y="274.4649"
+       x="73.395004"
+       height="6.3369665"
+       width="1.3890772"
+       id="rect4361"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.61402905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_body.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="204.73523"
+       x="-622.14221"
+       height="28.502205"
+       width="6.2477469"
+       id="rect4385"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.76176023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       y="214.72668"
+       x="-461.25421"
+       height="27.090786"
+       width="15.008669"
+       id="rect4397"
+       style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.1731782;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       y="-575.40698"
+       x="-622.02313"
+       height="27.090786"
+       width="15.008669"
+       id="rect4429"
+       style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.1731782;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.92783314;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4373"
+       width="3.336915"
+       height="6.0231624"
+       x="117.0831"
+       y="274.6218"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_body.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.76176023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4431"
+       width="6.2477469"
+       height="28.502205"
+       x="-802.95953"
+       y="-576.11267" />
+    <rect
+       y="274.4649"
+       x="76.855064"
+       height="6.3369665"
+       width="1.3890772"
+       id="rect4363"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.61402905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_body.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="204.73523"
+       x="-591.01709"
+       height="28.502205"
+       width="6.2477469"
+       id="rect4387"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.76176023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.76176023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4433"
+       width="6.2477469"
+       height="28.502205"
+       x="-771.83441"
+       y="-576.11267" />
+    <rect
+       y="274.4649"
+       x="83.775192"
+       height="6.3369665"
+       width="1.3890772"
+       id="rect4365"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.61402905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_body.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.76176023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4389"
+       width="6.2477469"
+       height="28.502205"
+       x="-606.57965"
+       y="204.73523" />
+    <rect
+       y="-576.11267"
+       x="-787.39697"
+       height="28.502205"
+       width="6.2477469"
+       id="rect4435"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.76176023;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.61402905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4355"
+       width="1.3890772"
+       height="6.3369665"
+       x="80.315125"
+       y="274.4649"
+       inkscape:export-filename="D:\Repos\ruby\gubby-gosu\examples\brains\assets\robot_body.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
